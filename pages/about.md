@@ -2,12 +2,12 @@
 layout: page
 menu: false
 date: '2020-02-27 01:53:59'
-title: About
+title: About Me
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://cdn.pixabay.com/photo/2017/06/09/09/39/adler-2386314_1280.jpg" alt="Thiago Rossener" width="200">
 
 # About
 

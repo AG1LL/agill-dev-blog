@@ -1,15 +1,11 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+photo: https://cdn.pixabay.com/photo/2017/06/09/09/39/adler-2386314_1280.jpg
+name: Aran G
+display_name: Aran G
+position: Student
+bio: Computer Science Student
 linkedin_username: linkedin_username
-medium_username: medium_username
+
 ---
 
